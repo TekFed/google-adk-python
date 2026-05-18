@@ -5,7 +5,7 @@ on:
     types: [opened, labeled]
   schedule:
     # Run every 6 hours to triage untriaged issues
-    - cron: '0 */6 * * *'
+    # - cron: '0 */6 * * *'
 
 jobs:
   agent-triage-issues:
