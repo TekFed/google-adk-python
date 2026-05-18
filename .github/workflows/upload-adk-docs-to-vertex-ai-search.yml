@@ -3,7 +3,7 @@ name: Upload ADK Docs to Vertex AI Search
 on:
   # Runs once per day at 16:00 UTC
   schedule:
-   - cron: '00 16 * * *'
+   # - cron: '00 16 * * *'
   # Manual trigger for testing and fixing
   workflow_dispatch:
 
