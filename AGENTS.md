@@ -1,7 +1,7 @@
 # AI Coding Assistant Context
 
 This document provides context for AI coding assistants (Claude Code, Gemini
-CLI, GitHub Copilot, Cursor, etc.) to understand the ADK Python project and
+CLI, GitHub Copilot, Cursor, etc.) to understand the ADK Python project &
 assist with development.
 
 ## Project Overview
