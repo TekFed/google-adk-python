@@ -4,7 +4,7 @@ name: "Sync: main -> v2"
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Daily at 6am UTC
+    # - cron: '0 6 * * *'  # Daily at 6am UTC
   workflow_dispatch:
 
 permissions:
